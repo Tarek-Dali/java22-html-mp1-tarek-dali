@@ -1,0 +1,158 @@
+
+
+div{
+    margin-left: 20px;
+}
+
+.bg1{
+    background-color: black;
+}
+
+.bg2{
+    background-color: crimson;
+}
+
+.bg3{
+    background-color: grey;
+}
+
+.marginup{
+    margin-top: 100px;
+}
+
+.marginbottom{
+    margin-bottom: 50px;
+}
+
+
+.right-empty{
+    margin-right: 59%;
+}
+
+
+.h1-startsidan{
+    color: rgb(229, 171, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+.h2-inspirationssidan{
+    color: gold;
+    font-family: cursive;
+}
+
+.h2-kontaktsidan{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+
+.p-startsidan{
+    color: lightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.links-startsidan{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.links-startsidan:hover{
+    background-color: blue;
+}
+
+.links-startsidan:active{
+    color: yellow;
+    background-color: red;
+}
+
+.p-inspirationssidan{
+    color: rgb(23, 224, 16);
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    color: yellowgreen;
+}
+
+
+li a{
+    color: rgb(23, 224, 16);
+    background-color: rgb(191, 2, 178);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: blue;
+    color: black;
+}
+
+.links-inspirationssidan{
+    background-color: rgb(7, 220, 163);
+    color: rgb(184, 55, 55);
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.links-inspirationssidan:hover{
+    background-color: blue;
+    color: black;
+}
+
+.links-inspirationssidan:active{
+    color: rgb(12, 231, 12);
+    background-color: purple;
+}
+
+label, input{
+    margin-bottom: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+label{
+    color: white;
+}
+
+.links-kontaktsidan{
+    background-color: rgb(59, 79, 229);
+    text-decoration: none;
+    font-weight: bold;
+    color: red;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+.links-kontaktsidan:hover{
+    background-color: red;
+    color: rgb(27, 5, 220);
+}
+
+.links-kontaktsidan:active{
+    color: orange;
+    background-color: aqua;
+}
+
+.img{
+    width: 8%;
+    border: 6px orange solid;
+    margin-left: 90%;
+    position: absolute;
+    top: 140px;    
+}
+
+.img2{
+    margin-top: 200px;
+    width: 50px;
+}
